@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=KimGawon&fontSize=50&animation=twinkling&fontAlign=75)
 
-# Hi~ I'm gawon
 <!--
 **wongakim-99/wongakim-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
