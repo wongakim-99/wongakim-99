@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=KimGawon&fontSize=50&animation=twinkling&fontAlign=75)
 
+# Welcome to my GitHub! <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+
 <!--
 **wongakim-99/wongakim-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
