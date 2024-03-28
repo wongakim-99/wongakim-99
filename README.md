@@ -2,6 +2,13 @@
 
 # Welcome to my GitHub! <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<br/>
+
+![wongakim-99's Github Stats](https://github-readme-stats.vercel.app/api?username=wongakim-99&show_icons=true) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongakim-99&hide=jupyter%20notebook&layout=compact)](https://github.com/wongakim-99/github-readme-stats)
+
+
+
 
 <!--
 **wongakim-99/wongakim-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
