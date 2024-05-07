@@ -7,7 +7,9 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=wongakim-99&show_icons=true" /> <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongakim-99&hide=jupyter%20notebook&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongakim-99&hide=jupyter%20notebook&layout=compact" /> <br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggw1999)](https://solved.ac/ggw1999/)
+
 
 </div>
 
