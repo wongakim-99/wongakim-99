@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="height: 30px; margin: 5px;">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <h3>IDE</h3>
