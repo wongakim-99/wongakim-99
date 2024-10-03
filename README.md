@@ -63,9 +63,23 @@
 
 
 </div>
+<br/>
+<br/>
 
 
+# 나만의 Github 사용 가이드라인
 
+- 📕 팀 프로젝트 : 팀에서 정한 가이드라인 따라가기
+- 📌 개인공부 : 개인공부 같은 경우 아래와 같은 규칙 따르기
+  1. 책 혹은 강의 보면서 공부하는 경우<br/>
+  - 해당 repository 에서 프로젝트 플래너 생성후 각 챕터별로 이슈 만들기
+  - 해당 이슈 번호에 맞춰서 커밋
+  - 각 이슈(챕터)에 description에 어떤 내용을 공부했는지 좀 상세하게 정리<br/><br/>
+ 
+  2. 구글링 혹은 GPT를 참고하면서 공부하는 경우
+  - 해당 repository에 플래너 생성후 어떤 내용인지에 대해서만 이슈 생성
+  - 각 이슈(챕터)에 맞춰서 커밋하고 description에는 필요한 내용만 간단히 설명
+  - 좀 더 깊은 심화적인 내용은 개인 블로그에 정리
 
 <!--
 **wongakim-99/wongakim-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
