@@ -1,18 +1,22 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=KimGawon&fontSize=50&animation=twinkling&fontAlign=75)
+![image](https://github.com/user-attachments/assets/5a87422e-3c99-433d-83c6-3bf7fb13f2cb)
 
-# Welcome to my GitHub! 
+# Hi I'm Gawon!
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=600&lines=Purposeful+Thinking,+Meaningful+Building" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <table align="center">
   <thead>
     <tr>
       <th>Language</th>
-      <th>Back-End</th>
+      <th>BackEnd</th>
+      <th>BackEnd Library</th>
       <th>Database</th>
-      <th>Infra & DevOps</th>
-      <th>Cooperation</th>
-      <th>IDE</th>
-      <th>OS</th>
     </tr>
   </thead>
   <tbody align="center">
@@ -24,15 +28,37 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       </td>
       <td>
+        <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeORM-FFA500?style=for-the-badge&logo=typeorm&logoColor=white" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 🔧 2nd Row: Infra / Cooperation / IDE / OS -->
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Infra & DevOps</th>
+      <th>Cooperation</th>
+      <th>IDE</th>
+      <th>OS</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
       <td>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </td>
@@ -45,7 +71,8 @@
       <td>
         <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
@@ -56,12 +83,13 @@
 </table>
 
 
+
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=wongakim-99&show_icons=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongakim-99&hide=jupyter%20notebook&layout=compact" /> <br/>
 
-
 </div>
+
 <br/>
 <br/>
 
