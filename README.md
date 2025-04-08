@@ -5,11 +5,10 @@
 # Welcome to my GitHub! 
 <h3>Basic stack</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" style="height: 30px; margin: 5px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="height: 30px; margin: 5px;">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
 <h3>Frameworks & Libraries</h3>
@@ -39,11 +38,6 @@
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" style="height: 30px; margin: 5px;">
 </div>
 
-<h3>Studying</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="height: 30px; margin: 5px;">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="height: 30px; margin: 5px;">
-</div>
 
 <h3>OS</h3>
 <div align="center">
