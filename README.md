@@ -5,12 +5,12 @@
 # Hi I'm Gawon!
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=600&lines=Purposeful+Thinking,+Meaningful+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=600&lines=Purposeful+Thinking,+Meaningful+Building" alt="Typing SVG" />
   </a>
 </p>
 <p>
   <b>"Purposeful Thinking, Meaningful Building"</b><br/>
-  모든 기술 선택과 판단에는 이유가 있어야 한다고 믿습니다.<br/>
+  모든 기술 선택과 판단에는 이유와 근거가 있어야 한다고 생각합니다.<br/>
   <b>의미 있는 방향</b>, 그리고 <b>생각 있는 개발</b>을 추구합니다.
 </p>
 
