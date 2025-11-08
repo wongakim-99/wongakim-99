@@ -36,7 +36,7 @@
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/TypeORM-FFA500?style=for-the-badge&logo=typeorm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
