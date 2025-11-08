@@ -21,7 +21,7 @@
   <tr>
     <th>Language</th>
     <th>BackEnd</th>
-    <th>BackEnd Library</th>
+    <th>AI API</th>
     <th>Database</th>
   </tr>
   <tr align="center">
