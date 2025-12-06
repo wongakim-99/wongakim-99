@@ -78,8 +78,8 @@
 
 <div align="center">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=wongakim-99&show_icons=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongakim-99&hide=jupyter%20notebook&layout=compact" /> <br/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=wongakim-99&show_icons=true" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongakim-99&hide=jupyter%20notebook&layout=compact" /> <br/> -->
 </div>
 
 <br/>
