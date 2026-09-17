@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/5a87422e-3c99-433d-83c6-3bf7fb13f2cb" width="100%" alt="헤더 이미지" />
 
-<h1>안녕하세요, 김가원입니다 👋</h1>
+<h1>안녕하세요, 김가원입니다</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=22&duration=3500&pause=1200&color=8C7FC4&center=true&vCenter=true&width=600&lines=Purposeful+Thinking,+Meaningful+Building;%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%40+CSLEE" alt="Purposeful Thinking, Meaningful Building" />
@@ -22,16 +22,16 @@
 
 <br/>
 
-## 🧭 소개
+## 소개
 
-- 🏢 **CSLEE**에서 개발하고 있습니다.
-- 🔍 금융 데이터 도메인에서 가장 정확하고 효율적인 **검색(Retrieval)** 방법을 고민하고 있습니다. → [Fin-Retriever-Optimization](https://github.com/wongakim-99/Fin-Retriever-Optimization)
-- 🤖 **AI 에이전트**와 반복 업무 **자동화**에 관심이 많습니다.
-- 🌱 학습 기록은 `*-notes` 레포에 차곡차곡 쌓고 있습니다.
+- **CSLEE**에서 개발하고 있습니다.
+- 금융 데이터 도메인에서 가장 정확하고 효율적인 **검색(Retrieval)** 방법을 고민하고 있습니다.
+- **AI 에이전트**와 반복 업무 **자동화**에 관심이 많습니다.
+- 학습 기록은 `*-notes` 레포에 차곡차곡 쌓고 있습니다.
 
 <br/>
 
-## 🛠 기술 스택
+## 기술 스택
 
 <table>
   <tr>
@@ -103,16 +103,13 @@
 
 <br/>
 
-## 🚀 프로젝트
+## 프로젝트
 
 | 프로젝트 | 소개 | 기술 |
 | :-- | :-- | :-- |
-| 🎓 [**똑똑**](https://github.com/SMU-TtokTtok/backend) | 상명대학교 리크루팅 서비스 | `Java` `Spring Boot` |
-| 🌿 [**이로운**](https://github.com/CCT-BEST-OF-BEST/beneficial-be) | 충청톤 · AI 기반 초등 돌봄반 한국어 교육 플랫폼 | `FastAPI` `RAG` |
-| 🐾 [**Pawpong**](https://github.com/Pawpong/pawpong_backend) | 믿을 수 있는 반려동물 브리더와 입양자 연결 서비스 | `NestJS` `MongoDB` |
-| 📈 [**로보어드바이저**](https://github.com/Capstone-Robo-Advisor/algorithm-server) | 캡스톤 · RAG 종목 추천과 포트폴리오 최적화 서버 | `FastAPI` `ChromaDB` |
-| 🔍 [**Fin-Retriever**](https://github.com/wongakim-99/Fin-Retriever-Optimization) | 암호화폐 자동매매 봇 + 금융 뉴스 RAG 파이프라인 | `Python` `RAG` |
-| 🎬 [**쇼츠 팩토리**](https://github.com/wongakim-99/shorts-factory) | 주식 커뮤니티 데이터 기반 경제 쇼츠 자동 생성 | `Gemini` `MoviePy` |
+| [**똑똑**](https://github.com/SMU-TtokTtok/backend) | 상명대학교 리크루팅 서비스 | `Java` `Spring Boot` |
+| [**이로운**](https://github.com/CCT-BEST-OF-BEST/beneficial-be) | 충청톤 · AI 기반 초등 돌봄반 한국어 교육 플랫폼 | `FastAPI` `RAG` |
+| [**Pawpong**](https://github.com/Pawpong/pawpong_backend) | 믿을 수 있는 반려동물 브리더와 입양자 연결 서비스 | `NestJS` `MongoDB` |
 
 <br/>
 
