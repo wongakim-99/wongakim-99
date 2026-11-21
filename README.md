@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2340C2,50:4B34C0,100:B83280&text=Gawon%20Kim&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=Purposeful%20Thinking,%20Meaningful%20Building&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Gawon Kim" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94,%20%EA%B9%80%EA%B0%80%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4;%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%40%20CSLEE;%ED%99%88%EC%84%9C%EB%B2%84%20gawon-dev%EB%A5%BC%20%EC%A7%81%EC%A0%91%20%EC%9A%B4%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" alt="안녕하세요, 김가원입니다" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94,%20%EA%B9%80%EA%B0%80%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4;%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90;%ED%99%88%EC%84%9C%EB%B2%84%20gawon-dev%EB%A5%BC%20%EC%A7%81%EC%A0%91%20%EC%9A%B4%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" alt="안녕하세요, 김가원입니다" />
 </a>
 
 모든 기술 선택과 판단에는 **이유와 근거**가 있어야 한다고 생각합니다.<br/>
