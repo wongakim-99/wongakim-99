@@ -1,0 +1,42 @@
+# 기여 그래프로 잔디 뱀 SVG 를 만들어 output 브랜치에 올림
+# README 의 활동 칸이 output 브랜치의 snake.svg, snake-dark.svg 를 읽음
+name: 잔디 뱀
+
+on:
+  schedule:
+    - cron: "0 15 * * *" # 매일 00:00 KST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # 잔디는 파랑 단계, 뱀은 헤더 그라데이션 끝 색으로 맞춤
+      - name: 잔디 뱀 SVG 생성
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#B83280&color_dots=#EBEDF0,#C7D0F5,#8E9FE8,#5B6FD9,#2340C2
+            dist/snake-dark.svg?color_snake=#FF8FB1&color_dots=#161B22,#1C2659,#2A3D99,#4562D9,#8EA2FF
+
+      - name: output 브랜치에 올리기
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
