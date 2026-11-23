@@ -16,6 +16,10 @@ const END = '<!-- BLOG-POSTS:END -->';
 const LIMIT = 3;
 const TAG_LIMIT = 3;
 const TIMEOUT_MS = 15_000;
+// 새 표지를 만들어야 하는데 ImageMagick 이 없을 때의 종료 코드. 워크플로가 이걸 보고 설치 후 다시 돌림
+const EXIT_NEEDS_IMAGEMAGICK = 3;
+
+class NeedsImageMagick extends Error {}
 
 // 홈서버 노트북이 꺼져 있는 건 흔한 일이라 실패로 치지 않고 경고만 남기고 그대로 둠
 const skip = (reason) => {
@@ -29,7 +33,7 @@ const escapeHtml = (text) =>
 // 서울 날짜로 YYYY-MM-DD
 const toSeoulDate = (iso) => new Date(iso).toLocaleDateString('sv-SE', { timeZone: 'Asia/Seoul' });
 
-// 러너(우분투)는 ImageMagick 6 의 convert, 맥은 7 의 magick
+// ImageMagick 7 은 magick, 6 은 convert
 const imageMagick = ['magick', 'convert'].find((bin) => {
   try {
     execFileSync(bin, ['-version'], { stdio: 'ignore' });
@@ -45,7 +49,7 @@ const ensureCover = async (cover, workDir) => {
   const name = `${path.parse(cover).name}.png`;
   const target = path.join(COVER_DIR, name);
   if (existsSync(target)) return name;
-  if (!imageMagick) throw new Error('ImageMagick 이 없음');
+  if (!imageMagick) throw new NeedsImageMagick(`새 표지 ${name} 을 만들 ImageMagick 이 없음`);
 
   const res = await fetch(`${SITE}${cover}`, { signal: AbortSignal.timeout(TIMEOUT_MS) });
   if (!res.ok) throw new Error(`표지 ${cover} 응답 ${res.status}`);
@@ -108,6 +112,10 @@ try {
   coverError = err;
 } finally {
   await rm(workDir, { recursive: true, force: true });
+}
+if (coverError instanceof NeedsImageMagick) {
+  console.log(coverError.message);
+  process.exit(EXIT_NEEDS_IMAGEMAGICK);
 }
 if (coverError) skip(`표지를 못 만듦 (${coverError.message})`);
 
