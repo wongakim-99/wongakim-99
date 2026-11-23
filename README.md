@@ -118,6 +118,34 @@
 
 <br/>
 
+## 최근 글
+
+<!-- BLOG-POSTS:START -->
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://gawon-dev.tail7c7524.ts.net/blog/posts/6b0307be9477755743db7d5d"><img src="assets/blog/dd042205a76005855c1316c5.png" width="100%" alt="Kafka는 왜 필요한가" /></a><br/>
+      <a href="https://gawon-dev.tail7c7524.ts.net/blog/posts/6b0307be9477755743db7d5d"><b>Kafka는 왜 필요한가</b></a><br/>
+      <sub>2026-11-23 · 공부 노트 · Kafka · 아키텍처</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://gawon-dev.tail7c7524.ts.net/blog/posts/6b0307be9477755743db7d5c"><img src="assets/blog/77836494ac5481ce0e0cd471.png" width="100%" alt="RBAC와 ABAC 비교" /></a><br/>
+      <a href="https://gawon-dev.tail7c7524.ts.net/blog/posts/6b0307be9477755743db7d5c"><b>RBAC와 ABAC 비교</b></a><br/>
+      <sub>2026-11-23 · 공부 노트 · 보안 · NestJS</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://gawon-dev.tail7c7524.ts.net/blog/posts/6b0307be9477755743db7d5b"><img src="assets/blog/no-cover.png" width="100%" alt="인증과 인가" /></a><br/>
+      <a href="https://gawon-dev.tail7c7524.ts.net/blog/posts/6b0307be9477755743db7d5b"><b>인증과 인가</b></a><br/>
+      <sub>2026-11-23 · 공부 노트 · 보안 · NestJS</sub>
+    </td>
+  </tr>
+</table>
+<!-- BLOG-POSTS:END -->
+
+<p align="right"><a href="https://gawon-dev.tail7c7524.ts.net/blog">gawon-log에서 더 보기 →</a></p>
+
+<br/>
+
 ## 활동
 
 <picture>
