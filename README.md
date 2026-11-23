@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2340C2,50:4B34C0,100:B83280&text=Gawon%20Kim&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=Purposeful%20Thinking,%20Meaningful%20Building&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Gawon Kim" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2340C2,50:4B34C0,100:B83280&text=Gawon%20Kim&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=Backend%20%C3%97%20AI%20Agents&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Gawon Kim" />
+
+<img src="assets/frieren.gif" width="360" alt="프리렌" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94,%20%EA%B9%80%EA%B0%80%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4;%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90;%ED%99%88%EC%84%9C%EB%B2%84%20gawon-dev%EB%A5%BC%20%EC%A7%81%EC%A0%91%20%EC%9A%B4%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" alt="안녕하세요, 김가원입니다" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94,%20%EA%B9%80%EA%B0%80%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4;AI%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%99%80%20%EA%B0%99%EC%9D%B4%20%EC%9D%BC%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94%20%EC%9D%BC%EC%9D%80%20%EC%9E%90%EB%8F%99%ED%99%94%EC%97%90%20%EB%A7%A1%EA%B9%81%EB%8B%88%EB%8B%A4" alt="안녕하세요, 김가원입니다" />
 </a>
 
-모든 기술 선택과 판단에는 **이유와 근거**가 있어야 한다고 생각합니다.<br/>
-**의미 있는 방향**, 그리고 **생각 있는 개발**을 추구합니다.
+**사람이 할 일**과 **에이전트에게 맡길 일**을 나누는 데 관심이 많습니다.<br/>
+아낀 시간은 **더 중요한 판단**에 씁니다.
 
 <br/>
 
@@ -27,7 +29,7 @@
 
 - **CSLEE**에서 개발하고 있습니다.
 - 집 노트북을 홈서버 **gawon-dev**로 꾸려 포트폴리오와 블로그를 직접 운영하고 있습니다.
-- **AI 에이전트**와 반복 업무 **자동화**에 관심이 많습니다.
+- **Claude Code**, **Codex** 같은 AI 에이전트와 함께 개발하고 있습니다.
 - 학습 기록은 [`*-notes` 레포](https://github.com/wongakim-99?tab=repositories&q=notes)에 차곡차곡 쌓고 있습니다.
 
 <br/>
@@ -91,6 +93,7 @@
       <img src="https://skillicons.dev/icons?i=pycharm" width="44" alt="PyCharm" title="PyCharm" />
       <img src="https://skillicons.dev/icons?i=webstorm" width="44" alt="WebStorm" title="WebStorm" />
       <img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code" title="VS Code" />
+      <img src="assets/icons/orca.png" width="44" alt="Orca" title="Orca" />
     </td>
   </tr>
   <tr>
